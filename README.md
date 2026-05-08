@@ -5,10 +5,33 @@ Teacher List
 
 202-C List
 1. Idria, Tracy Allen P.
-2. Losing, Ian Dave D.
+2. 
 3.
 4.
 5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.Losing, Ian Dave D.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
 // You can add numbers to continue the list
 
 
