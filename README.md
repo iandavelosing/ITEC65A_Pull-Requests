@@ -23,9 +23,7 @@ Teacher List
 17.
 18.
 19.
-20.Losing, Ian Dave D.
-21.
-22.
+20. Losing, Ian Dave D.
 23.
 24.
 25.
